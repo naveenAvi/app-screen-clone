@@ -1,0 +1,10 @@
+canvas {
+  border: 1px solid black;
+  height: 100%;
+}
+
+.canvas-holder {
+  height: 80vh;
+  width: 100%;
+  background-color: gray;
+}

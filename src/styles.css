@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+@layer reset, primeng;
+@import 'quill/dist/quill.core.css';
+@import 'quill/dist/quill.snow.css';
+/* Reset CSS */
+@layer reset {
+    button,
+    input {
+        /* CSS to Reset */
+    }
+}
+body, html{
+    font-size: 14px;
+}
+.input-number-50 input{
+    width: 50px !important; /* Make sure it's important to override other styles */
+}

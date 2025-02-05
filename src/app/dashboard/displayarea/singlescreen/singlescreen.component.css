@@ -1,0 +1,11 @@
+canvas {
+    border: 1px solid #dbdbdb;
+    height: 100%;
+  }
+  
+  .canvas-holder {
+    height: 80vh;
+    width: 100%;
+    background-color: white;
+    /* background-color: rgb(255, 207, 207); */
+  }

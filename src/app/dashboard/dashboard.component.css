@@ -1,0 +1,12 @@
+.grid{
+    margin-top: 60px;
+}
+.p-card .p-card-body {
+    padding-top: 0px !important;
+}
+.col-main-content{
+    width: 80%;
+}
+.col-sidebar{
+    width: 20%;
+}

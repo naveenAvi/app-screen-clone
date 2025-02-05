@@ -1,0 +1,32 @@
+.sidebar{
+    position: fixed;
+    width: 16.6667%; 
+    width: 20%; 
+    padding-right: 10px;
+}
+.flex-row-reverse{
+    display:flex;
+    flex-direction: row-reverse;
+}
+.form-lable{
+    font-size: 16px;
+    font-weight: 600;
+}
+.wid100{
+    width: 20px;
+}
+
+.wid100 .p-inputtext {
+    width: 50px !important; /* Make sure it's important to override other styles */
+}
+.input-number-50 input{
+    width: 50px !important; /* Make sure it's important to override other styles */
+}
+.p-inputnumber-input {
+    width: 50px !important; /* Make sure it's important to override other styles */
+background-color: red;
+}
+.sidebar-body{
+    padding-left: 4px;
+    padding-right: 4px;
+}
